@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://media.discordapp.net/attachments/1004829977180651642/1168877752477286420/ezgif-5-7aa3fcd91b.gif?ex=65535d3c&is=6540e83c&hm=b03e0e7886b8081da16a682e3aadcefd416a42fd8aec23591dd8447edd4893f0&)
 
 <!--
 **dudoska/dudoska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
