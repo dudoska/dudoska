@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="left"> 👋 Hello world </h1>
+<h3 align="left">
+  I'am an independent developer creating web sites / applications. <br>
+  Values creating user-friendly, secure, and scalable software.
+</h3>
 
-<!--
-**dudoska/dudoska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left"> My projects 📂 </h1>
 
-Here are some ideas to get you started:
+| Name  | Description | Website | Status |
+| ------------- | ------------- | ------------- | ------------- |
+| vkipo-app  | PWA-based timetable | [vkipo.live](https://vkipo.live/) | ![Active](https://img.shields.io/badge/Active-green?style=flat) |
+| senko-bot | Discord bot | [bots.server-discord.com](https://bots.server-discord.com/943215065493041183) | ![Active](https://img.shields.io/badge/Active-green?style=flat) |
+| [right-way](https://github.com/dudoska/right-way) | Website template about car rental | [dudosa.dev/right-way](https://www.dudosa.dev/right-way/) | ![Template](https://img.shields.io/badge/Template-gray?style=flat) |
+| [WeatherApp](https://github.com/dudoska/WeatherApp) | An app with weather information | - | ![Archive](https://img.shields.io/badge/Archive-yellow?style=flat) |
+| [Building-with-friends](https://github.com/dudoska/Building-with-friends) | Open source online building game | - | ![Archive](https://img.shields.io/badge/Archive-yellow?style=flat) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="left"> My stats 📊 </h1>
+<a href="https://wakatime.com/@dudosa"><img src="https://wakatime.com/share/@dudosa/8f2dbde0-27d9-4576-a101-8ecd0cb9ce88.png" /></a>
+
+<a href="https://wakatime.com/@dudosa"><img src="https://wakatime.com/share/@dudosa/985a17e7-ece1-4598-b94a-9918ceb4a957.png" /></a>
