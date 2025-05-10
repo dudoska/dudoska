@@ -17,4 +17,4 @@
 <h1 align="left"> My stats 📊 </h1>
 <a href="https://wakatime.com/@dudosa"><img src="https://wakatime.com/share/@dudosa/8f2dbde0-27d9-4576-a101-8ecd0cb9ce88.png" /></a>
 
-<a href="https://wakatime.com/@dudosa"><img src="https://wakatime.com/share/@dudosa/985a17e7-ece1-4598-b94a-9918ceb4a957.png" /></a>
+<a href="https://wakatime.com/@dudosa"><img src="https://wakatime.com/share/@dudosa/985a17e7-ece1-4598-b94a-9918ceb4a957.png" height="500" width="720"/></a>
