@@ -4,12 +4,19 @@
   Values creating user-friendly, secure, and scalable software.
 </h3>
 
+<h1 align="left"> Sponsors 💵 </h1>
+<div align="left">
+  <img src="despoty.png" width="85px" alt="despoty logo">
+  <br>
+  &nbsp;&nbsp;&nbsp;despoty
+</div>
+
 <h1 align="left"> My projects 📂 </h1>
 
 | Name  | Description | Website | Status |
 | ------------- | ------------- | ------------- | ------------- |
 | vkipo-app  | PWA-based timetable | [vkipo.live](https://vkipo.live/) | ![Active](https://img.shields.io/badge/Active-green?style=flat) |
-| senko-bot | Discord bot | [bots.server-discord.com](https://bots.server-discord.com/943215065493041183) | ![Active](https://img.shields.io/badge/Active-green?style=flat) |
+| senko-bot | Discord bot | - | ![Archive](https://img.shields.io/badge/Archive-yellow?style=flat) |
 | [WeatherApp](https://github.com/dudoska/WeatherApp) | An app with weather information | - | ![Archive](https://img.shields.io/badge/Archive-yellow?style=flat) |
 | [Building-with-friends](https://github.com/dudoska/Building-with-friends) | Open source online building game | - | ![Archive](https://img.shields.io/badge/Archive-yellow?style=flat) |
 
