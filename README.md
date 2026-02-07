@@ -1,14 +1,14 @@
-<h1 align="left"> 👋 Hello world </h1>
+<h1 align="left">  Hello world 🐳 </h1>
+
 <h3 align="left">
   I'am an independent developer creating web sites / applications. <br>
   Values creating user-friendly, secure, and scalable software.
 </h3>
 
 <h1 align="left"> Sponsors 💵 </h1>
+
 <div align="left">
-  <img src="despoty.png" width="85px" alt="despoty logo">
-  <br>
-  &nbsp;&nbsp;&nbsp;despoty
+  <a href="https://discord.com/users/924219957888299008"><img src="despoty.png" width="80px" alt="despoty logo"></a>
 </div>
 
 <h1 align="left"> My projects 📂 </h1>
